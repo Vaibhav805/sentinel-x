@@ -1,0 +1,10 @@
+node_modules
+server/node_modules
+dashboard/node_modules
+.next
+dist
+build
+models
+data
+logs
+myenv

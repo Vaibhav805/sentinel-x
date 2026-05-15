@@ -1,0 +1,25 @@
+# Binaries and Objects
+*.o
+flux.bpf.o
+run
+
+# Python Environment and Cache
+myenv/
+__pycache__/
+*.pyc
+
+# Local Logs and Data
+logs/
+data/
+.vscode/
+
+# Web/Next.js artifacts
+.next/
+node_modules/
+
+# Project-specific execution scripts
+run
+run_services.sh
+
+# Environment-specific configuration
+tsconfig.json
